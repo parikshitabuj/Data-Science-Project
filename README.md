@@ -9,11 +9,8 @@ It focuses on **fund disbursement, transaction patterns, and welfare impact** th
 ---
 
 ## 👨‍💻 Author & Institution
-**Name:** Parikshit Abuj  
-**PRN:** 22070521009  
-**Semester:** 7 (Section A)  
+**Name:** Parikshit Abuj   
 **Institute:** Symbiosis Institute of Technology, Nagpur  
-**Guide:** Dr. Piyush Chauhan  
 
 ---
 
